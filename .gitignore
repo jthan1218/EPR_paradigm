@@ -1,0 +1,6 @@
+0_rendering_MIMOGS/dataset/*
+
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
